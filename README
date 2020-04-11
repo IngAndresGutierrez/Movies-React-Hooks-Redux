@@ -1,5 +1,8 @@
 React Redux Router Saga Boilerplate
 
+![Captura de la App](./.readme-static/movies-list.png)
+
+
 This repository is created to agilize the beginning of a project and of course, you are interested in using Redux Saga & React Router. That's why I created my own easy boilerplate.
 
 I'm using these powerful libraries
